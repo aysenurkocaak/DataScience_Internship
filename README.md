@@ -1,4 +1,4 @@
-# Inroductory Data Science Task 1: Creating Cmbination Thumbnails
+# Task 1: Creating Combination Thumbnails
 
 ## Use Cases of the Project
 This project, as an introductory data science task, leverages digital image processing techniques to load, process, and combine product images from various fashion categories (dresses, shoes, accessories) to generate virtual outfit combinations with transparent backgrounds.
